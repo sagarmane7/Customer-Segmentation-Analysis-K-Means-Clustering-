@@ -58,9 +58,9 @@ Improve customer engagement and satisfaction
 
 🗂 Dataset: ifood_df.csv
 
-💻 Code: 
+💻 Code: https://colab.research.google.com/drive/1Wz9GgbGvYQJ1OQh_HKxwA64qrfP7kS0r?usp=sharing
 
-🎥 Video Presentation: 
+🎥 Video Presentation: https://www.linkedin.com/posts/sagar-mane-1818a72b7_dataanalytics-machinelearning-kmeans-activity-7395495608121200640-FkIO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwg6jEBpglptmS9aTOzjmwp6QVLRivtw00
 
 🧾 Conclusion
 
